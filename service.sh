@@ -1,6 +1,6 @@
 #!/system/bin/sh
 
-MODPATH=/data/adb/modules/gsm_faker
+MODPATH=/data/adb/modules/SimOperator
 
 sleep 30s # wait for boot complete
 
